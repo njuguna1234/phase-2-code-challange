@@ -1,6 +1,6 @@
 import React from 'react';
 import Row from './Row';
-import Button from './Button';
+// import Button from './Button';
 
 export default function Table({ transaction }) {
     return (
