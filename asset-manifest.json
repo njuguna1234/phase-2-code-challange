@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/njuguna1234/phase-2-code-challange/static/css/main.d070eabf.css",
+    "main.js": "/njuguna1234/phase-2-code-challange/static/js/main.f64722fe.js",
+    "static/js/453.d3943c81.chunk.js": "/njuguna1234/phase-2-code-challange/static/js/453.d3943c81.chunk.js",
+    "index.html": "/njuguna1234/phase-2-code-challange/index.html",
+    "main.d070eabf.css.map": "/njuguna1234/phase-2-code-challange/static/css/main.d070eabf.css.map",
+    "main.f64722fe.js.map": "/njuguna1234/phase-2-code-challange/static/js/main.f64722fe.js.map",
+    "453.d3943c81.chunk.js.map": "/njuguna1234/phase-2-code-challange/static/js/453.d3943c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d070eabf.css",
+    "static/js/main.f64722fe.js"
+  ]
+}
